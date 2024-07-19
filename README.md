@@ -1,3 +1,5 @@
+【[中文](README.cn.md)】
+
 # Import ComfyUI as if it is a Python library
 
 ComfyUI is a highly efficient VRAM management tool. This repository provides instructions for setting up and using ComfyUI in a Python environment and Jupyter notebooks.
