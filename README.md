@@ -1,6 +1,8 @@
 # Import ComfyUI as if it is a Python library
 
-ComfyUI is a highly efficient VRAM management tool. This repository provides instructions for setting up and using ComfyUI in a Python environment, specifically for Jupyter notebooks.
+ComfyUI is a highly efficient VRAM management tool. This repository provides instructions for setting up and using ComfyUI in a Python environment and Jupyter notebooks.
+
+ComfyUI can significantly reduce the VRAM requirements for running models. For example, the original Stable Diffusion v1 at [RunwayML's stable-diffusion repository](https://github.com/runwayml/stable-diffusion) requires at least 10GB VRAM. With ComfyUI, you can run it with as little as 1GB VRAM. Let's set up the environment and give it a try!
 
 ## Setup
 
